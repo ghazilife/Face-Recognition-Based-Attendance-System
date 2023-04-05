@@ -1,2 +1,2 @@
 # Face-Recognition-Based-Attendance-System
-using pythin
+using Python
